@@ -95,51 +95,6 @@ Review — short daily and weekly reviews to measure progress and reallocate tim
 The principle underneath it all: systems, not willpower. Routines, templates, and automation reduce decision fatigue and protect your time for high-leverage work.
 Your 7-day experiment
 Before next session: choose one most-important task each day, time-block it, log the result in the app, and do one weekly review. Small, repeatable, and trackable.
-SLIDE 6
-Statistically speaking, 75% of US adults report regularly struggling to stay focused, with three-quarters citing issues like stress, lack of sleep, or digital device distractions. Furthermore, nearly 1 in 10 young adults (ages 18–39) suffer from diagnosed cognitive disabilities that severely impact their ability to concentrate, remember, or make decisions. [1, 2, 3, 4]
-While a general "inability to stick to one idea" can stem from lifestyle fatigue or environment, it is also heavily tied to diagnosed medical conditions and broader psychological trends: [1, 2, 3, 4, 5]
-Cognitive Difficulties: Between 2013 and 2023, self-reported cognitive difficulties nearly doubled among adults ages 18 to 39, rising from 5.1% to 9.7%. [1, 2]
-ADHD Diagnoses: Roughly 6% of US adults (and about 1 in 9 children) currently live with ADHD, a neurodevelopmental condition directly characterized by severe struggles with executive function and sustained focus. [1, 2, 3]
-The Shrinking Attention Span: The average time spent focusing on a single task on a screen has plummeted to roughly 40 seconds, a decrease primarily driven by the design of modern digital environments and social media. [1, 2]
-Goal Achievement Rates: Studies reveal that 92% of people fail to achieve their goals, often due to the difficulty of maintaining focus on abstract, long-term plans over time. [1, 2]
-If you are looking to regain your focus, understand your attention limits, or improve your planning process, let me know:
-Is your biggest focus hurdle due to digital distractions or overthinking/stress?
-Are you looking for productivity methods (like the) or lifestyle adjustments (like)?
-Studies show that roughly 29% to 35% of entrepreneurs have ADHD, making them up to 5 times more likely to have this condition than the general population. However, having a scattered, multi-passionate brain is also heavily tied to the "entrepreneurial mindset," which drives the risk tolerance and big-picture thinking needed to launch startups
-Everything we just named — scattered focus, unclear priorities, knowledge that never turns into action — is exactly what the Transformation Builder is built to fix. The app helps you:
-Get clarity — go back to your earliest stages of life and see how you built from them
-Get focused — identify the few things that actually move the needle
-Move strategically and intentionally — not just reflect on the past, but look at who you are today and what you still need to work through
-As you work, use this loop: Clarify → Prioritize → Schedule → Review.
-Clarify — define your highest-impact outcomes using the goal template
-Prioritize — choose 1–3 priorities a day using an impact-vs-effort / most-important-task lens
-Schedule — block calendar time for those priorities; let the app turn goals into scheduled actions
-Review — short daily and weekly reviews to measure progress and reallocate time
-The principle underneath it all: systems, not willpower. Routines, templates, and automation reduce decision fatigue and protect your time for high-leverage work.
-Your 7-day experiment
-Before next session: choose one most-important task each day, time-block it, log the result in the app, and do one weekly review. Small, repeatable, and trackable.
-SLIDE 7
-Statistically speaking, 75% of US adults report regularly struggling to stay focused, with three-quarters citing issues like stress, lack of sleep, or digital device distractions. Furthermore, nearly 1 in 10 young adults (ages 18–39) suffer from diagnosed cognitive disabilities that severely impact their ability to concentrate, remember, or make decisions. [1, 2, 3, 4]
-While a general "inability to stick to one idea" can stem from lifestyle fatigue or environment, it is also heavily tied to diagnosed medical conditions and broader psychological trends: [1, 2, 3, 4, 5]
-Cognitive Difficulties: Between 2013 and 2023, self-reported cognitive difficulties nearly doubled among adults ages 18 to 39, rising from 5.1% to 9.7%. [1, 2]
-ADHD Diagnoses: Roughly 6% of US adults (and about 1 in 9 children) currently live with ADHD, a neurodevelopmental condition directly characterized by severe struggles with executive function and sustained focus. [1, 2, 3]
-The Shrinking Attention Span: The average time spent focusing on a single task on a screen has plummeted to roughly 40 seconds, a decrease primarily driven by the design of modern digital environments and social media. [1, 2]
-Goal Achievement Rates: Studies reveal that 92% of people fail to achieve their goals, often due to the difficulty of maintaining focus on abstract, long-term plans over time. [1, 2]
-If you are looking to regain your focus, understand your attention limits, or improve your planning process, let me know:
-Is your biggest focus hurdle due to digital distractions or overthinking/stress?
-Are you looking for productivity methods (like the) or lifestyle adjustments (like)?
-Studies show that roughly 29% to 35% of entrepreneurs have ADHD, making them up to 5 times more likely to have this condition than the general population. However, having a scattered, multi-passionate brain is also heavily tied to the "entrepreneurial mindset," which drives the risk tolerance and big-picture thinking needed to launch startups
-Everything we just named — scattered focus, unclear priorities, knowledge that never turns into action — is exactly what the Transformation Builder is built to fix. The app helps you:
-Get clarity — go back to your earliest stages of life and see how you built from them
-Get focused — identify the few things that actually move the needle
-Move strategically and intentionally — not just reflect on the past, but look at who you are today and what you still need to work through
-As you work, use this loop: Clarify → Prioritize → Schedule → Review.
-Clarify — define your highest-impact outcomes using the goal template
-Prioritize — choose 1–3 priorities a day using an impact-vs-effort / most-important-task lens
-Schedule — block calendar time for those priorities; let the app turn goals into scheduled actions
-Review — short daily and weekly reviews to measure progress and reallocate time
-The principle underneath it all: systems, not willpower. Routines, templates, and automation reduce decision fatigue and protect your time for high-leverage work.
-Your 7-day experiment
 
 Before next session: choose one most-important task each day, time-block it, log the result in the app, and do one weekly review. Small, repeatable, and trackable.
  Show how to add to the Transformation Builder
@@ -200,6 +155,7 @@ Formation
 Function
 Future
 We cannot fully understand our future until we understand what helped form us.
+
 SLIDE 7
 Go into app 
 home page
@@ -208,6 +164,7 @@ Step 1: Discover Purpose (from the Dashboard)
 Go over the questions for module 1, 2, 3, 4, 
 Ok from your modules and answering the questions, make sure you hit the “save reflections” button
 Now what we are going to do is look at the Journal entries and setting tasks or a goal into the calendar – before we end our session, we should have at least one goal to add
+
 SLIDE 8
 SECTION 2
 O – OWN YOUR OBSTACLES (15 Minutes) O in FOCUS
@@ -240,6 +197,7 @@ Limited opportunities
 Oppositions to become all that I was intended; must make a way to excel, create opportunities, and produce growth independently through my clarity to transform my life
 My value proposition, simply put:
 I help individuals gain clarity, overcome barriers, and intentionally transform their lives — combining practical experience, strategic insight, emerging solutions, and purpose-driven action — so they can become who they were created to be and accomplish what they were meant to achieve.
+
 SLIDE 9
 THE SIX QUESTIONS FRAMEWORK
 Before every major decision ask:
@@ -274,6 +232,7 @@ How much of your clarity is being stolen by simply doing too many things?
 What would happen if you concentrated your effort on fewer things with greater intensity?
 Study highly successful people and you'll find a pattern: they did not become successful with a constantly divided mind. They committed to one main thing long enough to see it grow.
 Your future success is directly linked to your ability to focus on one main thing and push it forward with consistency.
+
 SLIDE 11
 --- SECTION 4 UNIFY YOUR PRIORITIES --- U IN FOCUS
 What I'm Learning From Those Who Do It Well
@@ -286,6 +245,7 @@ Omar Eltakrori — clear, concise, personable, down-to-earth. Makes practical po
 Justin Burns, Marvin Tucker, and others — they share stories, and they all carry a sense of excitement and focus.
 Clarity with spiritual depth
 I recently listened to messages from Travis Greene, and to Tasha Cobbs Leonard and her husband Kenneth. What they share in common is clarity, precision, and symbolic reference — they engage the audience in a way that is insightful, resonant, and practical, with spiritual grounding.
+
 SLIDE 12
 --- SECTION 5 ---
 S – SUSTAIN YOUR SUCCESS (10 Minutes) S IN FOCUS
@@ -332,6 +292,7 @@ S — Simplify
 What should I stop doing?
 E — Execute
 What is my next step?
+
 SLIDE 14
 Close out with homework
 Remind students to review the updates in the LTN Community
