@@ -1,71 +1,103 @@
-Presentation Title: Navigating a Purposeful and Productive Life in the Digital Age
-Slide 1: Introduction
-•	Opening Statement: In today's fast-paced digital world, achieving a purposeful and productive life requires intentionality and strategy. Today, we’ll explore four key areas that will empower you to navigate distractions and setbacks effectively.
-________________________________________
-Slide 2: 1. Building Discipline in an Age of Distraction
-•	Three Points of Alliteration:
-•	Focus: Cultivating attention amidst distractions.
-•	Framework: Establishing routines and habits.
-•	Fortitude: Developing resilience against temptation.
-•	Framework:
-i.	Identify Distractions: List common distractions (social media, notifications).
-ii.	Set Clear Goals: Define what discipline looks like for you.
-iii.	Create a Routine: Develop a daily schedule that prioritizes your goals.
-iv.	Reflect and Adjust: Regularly assess your progress and make necessary changes.
-•	Example: Share a case study of someone who improved their focus using technology tools like time-blocking apps.
-•	Statistic: According to a study by Microsoft, the average attention span has decreased to 8 seconds due to digital distractions.
-________________________________________
-Slide 3: 2. The Difference Between Motion and Progress
-•	Three Points of Alliteration:
-•	Measurement: Tracking meaningful outcomes.
-•	Mindset: Shifting from activity to achievement.
-•	Motivation: Finding purpose in your actions.
-•	Framework:
-i.	Define Progress: What does progress mean in your context?
-ii.	Set Milestones: Break down larger goals into smaller, measurable tasks.
-iii.	Evaluate Actions: Regularly assess whether your activities are leading to results.
-iv.	Celebrate Wins: Acknowledge even small achievements to stay motivated.
-•	Example: Discuss a business that focused on metrics that matter, leading to significant growth.
-•	Statistic: Research indicates that only 20% of tasks contribute to 80% of outcomes (Pareto Principle).
-________________________________________
-Slide 4: 3. Faith, Vision, and Practical Strategy
-•	Three Points of Alliteration:
-•	Faith: Believing in your vision.
-•	Focus: Keeping your eyes on the goal.
-•	Framework: Creating actionable steps.
-•	Framework:
-i.	Articulate Your Vision: Write down your long-term goals.
-ii.	Develop a Strategy: Create a step-by-step plan to achieve your vision.
-iii.	Seek Accountability: Share your goals with someone who can help keep you on track.
-iv.	Review and Revise: Periodically check in on your progress and adjust your strategy as needed.
-•	Example: Share a personal story or a well-known figure's journey that illustrates the power of faith and vision.
-•	Statistic: According to a Gallup poll, people with clear goals are 10 times more likely to achieve them.
-________________________________________
-Slide 5: 4. Reinvention: Moving Beyond Setbacks to Future Destinations
-•	Three Points of Alliteration:
-•	Reflection: Learning from past experiences.
-•	Resilience: Bouncing back from failures.
-•	Reinvention: Embracing change for growth.
-•	Framework:
-i.	Acknowledge Setbacks: Accept that setbacks are part of the journey.
-ii.	Analyze Lessons: Reflect on what went wrong and what can be learned.
-iii.	Reframe Your Narrative: Change how you view your setbacks as opportunities for growth.
-iv.	Take Action: Implement changes based on your reflections and move forward.
-•	Example: Highlight a successful entrepreneur who faced significant setbacks before achieving success.
-•	Statistic: Studies show that 70% of entrepreneurs experience failure before finding success, but those who learn from it often succeed.
-________________________________________
-Slide 6: Conclusion
-•	Recap: Today, we explored the importance of discipline, understanding progress, having faith and strategy, and embracing reinvention. Each area is vital for navigating our increasingly distracted world.
-•	Call to Action: Challenge the audience to implement one strategy from each topic in the coming week to start their journey toward a more purposeful and productive life.
-Slide 7: Q&A
-•	Engagement: Invite questions and discussions to deepen understanding and share personal experiences.
-________________________________________
+Transformation Builder - AI Presentation Script
 
-demonstrate video summary using gemini
-show claude plugin
-show wisperflow
-show webpages created using clade connect other computer
-show 
+Slide 1: Slide 1
 
-next session July 13 & 27
+Introduce the topic 'Slide 1' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
 
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 2: Slide 2
+
+Introduce the topic 'Slide 2' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 3: Slide 3
+
+Introduce the topic 'Slide 3' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 4: Slide 4
+
+Introduce the topic 'Slide 4' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 5: Slide 5
+
+Introduce the topic 'Slide 5' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 6: Slide 6
+
+Introduce the topic 'Slide 6' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 7: Slide 7
+
+Introduce the topic 'Slide 7' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 8: Slide 8
+
+Introduce the topic 'Slide 8' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 9: Slide 9
+
+Introduce the topic 'Slide 9' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 10: Slide 10
+
+Introduce the topic 'Slide 10' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 11: Slide 11
+
+Introduce the topic 'Slide 11' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 12: Slide 12
+
+Introduce the topic 'Slide 12' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 13: Slide 13
+
+Introduce the topic 'Slide 13' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 14: Slide 14
+
+Introduce the topic 'Slide 14' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 15: Slide 15
+
+Introduce the topic 'Slide 15' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 16: 2026 AI Trends Shaping Industry
+
+Introduce the topic '2026 AI Trends Shaping Industry' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
+
+Slide 17: AI's Impact on the Workforce & Small Business
+
+Introduce the topic 'AI's Impact on the Workforce & Small Business' and connect it to the audience's personal and professional growth. Explain each point on the slide with practical examples, invite reflection, and transition naturally to the next slide. For your Transformation Builder audience, continually reinforce that AI should support purposeful action, disciplined execution, and long-term transformation rather than simply using more tools.
+
+Reflection question: What is one action you can take this week based on this slide?
